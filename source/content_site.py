@@ -20,11 +20,11 @@ SITE = dict(
     network=[("Georgia Medicare Enrollment", "https://georgiamedicareenrollment.com"), ("Tennessee Medicare Quotes", "https://www.tennesseemedicarequotes.com"),
              ("Minnesota Medicare Enrollment", "https://minnesotamedicareenrollment.com"), ("Texas Medicare Enrollment", "https://texasmedicareenrollment.com"),
              ("Medicare Enrollment Arizona", "https://www.medicareenrollmentarizona.com"), ("Medicare Enrollment Nevada", "https://medicareenrollmentnevada.com"),
-             ("Colorado Medicare Enrollment", "https://coloradomedicareenrollment.com"), ("Medicare Enrollment Utah", "https://medicareenrollmentutah.com"),
+             ("Colorado Medicare Enrollment", "https://coloradomedicareenrollment.com"), ("Medicare Enrollment Utah", "https://medicareenrollmentutah.com"), ("California Medicare Enrollment", "https://www.californiamedicareenrollment.com"),
              ("MyMedigapRate — Medigap rate research", "https://www.mymedigaprate.com"), ("MyECOS360 — Darin's author page", "https://www.myecos360.com/darin-weidauer")],
     sameas_org_extra=["https://howdoiapplyformedicare.com", "https://medicareadvantageanswers.com", "https://dentalinsurancetomorrow.com"],
     sameas_darin=["https://www.myecos360.com/darin-weidauer", "https://www.linkedin.com/in/darin-weidauer-3165a816b/", "https://www.youtube.com/channel/UCD1XkkknhQ3UT-8AteYD3vQ",
-                  "https://www.medicareenrollmentarizona.com/about", "https://minnesotamedicareenrollment.com/about", "https://texasmedicareenrollment.com/about", "https://medicareenrollmentutah.com/about", "https://www.mymedigaprate.com/about"],
+                  "https://www.medicareenrollmentarizona.com/about", "https://minnesotamedicareenrollment.com/about", "https://texasmedicareenrollment.com/about", "https://medicareenrollmentutah.com/about", "https://www.californiamedicareenrollment.com/about", "https://www.mymedigaprate.com/about"],
     tpmo=("We do not offer every plan available in your area. Any information we provide is limited to those plans we do offer in your area. "
           "Please contact Medicare.gov, 1-800-MEDICARE, or SHINE (Serving Health Insurance Needs of Elders, Florida&rsquo;s State Health Insurance Assistance Program, 1-800-963-5337) to get information on all of your options."),
     not_affiliated="the State of Florida, the Florida Department of Elder Affairs, the Agency for Health Care Administration, Florida Medicaid, or the Florida Office of Insurance Regulation",
